@@ -1,0 +1,11 @@
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/bin/Debug/netcoreapp2.2/calculadora_funciones.deps.json
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/bin/Debug/netcoreapp2.2/calculadora_funciones.runtimeconfig.json
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/bin/Debug/netcoreapp2.2/calculadora_funciones.runtimeconfig.dev.json
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/bin/Debug/netcoreapp2.2/calculadora_funciones.dll
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/bin/Debug/netcoreapp2.2/calculadora_funciones.pdb
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.csprojAssemblyReference.cache
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.csproj.CoreCompileInputs.cache
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.AssemblyInfoInputs.cache
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.AssemblyInfo.cs
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.dll
+/home/mint/Projects/calculadora_funciones/calculadora_funciones/obj/Debug/netcoreapp2.2/calculadora_funciones.pdb

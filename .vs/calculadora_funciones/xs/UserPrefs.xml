@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1F9B03DF-65E7-430F-9985-C43B84BD7EC6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculadora_funciones/Program.cs">
+    <Files>
+      <File FileName="calculadora_funciones/Program.cs" Line="18" Column="41" />
+      <File FileName="../ejemplo_menu/ejemplo_menu/Program.cs" Line="15" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calculadora_funciones" expanded="True">
+            <Node name="calculadora_funciones" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.calculadora__funciones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
